@@ -10,7 +10,7 @@ DATABASES = {
         'NAME': 'storefront3',
         'HOST': 'mysql',
         'USER': 'root',
-        'PASSWORD': 'MyPassword'
+        'PASSWORD': '99mysql99'
     }
 }
 
